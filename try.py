@@ -1,4 +1,4 @@
 print("hello world")
 x = 5
 for i in range(x):
-  print(i)
+  print(f"{i}.hey")
